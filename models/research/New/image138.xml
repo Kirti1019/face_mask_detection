@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New</folder>
+	<filename>image138.jpg</filename>
+	<path>C:\Users\Kirti\Desktop\New\image138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>956</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>159</ymin>
+			<xmax>677</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

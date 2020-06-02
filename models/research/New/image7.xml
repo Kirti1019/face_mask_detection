@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New</folder>
+	<filename>image7.jpg</filename>
+	<path>C:\Users\Kirti\Desktop\New\image7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>494</ymin>
+			<xmax>3060</xmax>
+			<ymax>3944</ymax>
+		</bndbox>
+	</object>
+</annotation>

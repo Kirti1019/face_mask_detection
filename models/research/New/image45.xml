@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New</folder>
+	<filename>image45.jpg</filename>
+	<path>C:\Users\Kirti\Desktop\New\image45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>184</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>53</ymin>
+			<xmax>150</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>
